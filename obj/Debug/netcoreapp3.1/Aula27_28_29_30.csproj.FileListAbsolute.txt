@@ -1,0 +1,39 @@
+C:\Users\kermt\Documents\Projetos\Aula27_28_29_30\bin\Debug\netcoreapp3.1\Aula27_28_29_30.exe
+C:\Users\kermt\Documents\Projetos\Aula27_28_29_30\bin\Debug\netcoreapp3.1\Aula27_28_29_30.deps.json
+C:\Users\kermt\Documents\Projetos\Aula27_28_29_30\bin\Debug\netcoreapp3.1\Aula27_28_29_30.runtimeconfig.json
+C:\Users\kermt\Documents\Projetos\Aula27_28_29_30\bin\Debug\netcoreapp3.1\Aula27_28_29_30.runtimeconfig.dev.json
+C:\Users\kermt\Documents\Projetos\Aula27_28_29_30\bin\Debug\netcoreapp3.1\Aula27_28_29_30.dll
+C:\Users\kermt\Documents\Projetos\Aula27_28_29_30\bin\Debug\netcoreapp3.1\Aula27_28_29_30.pdb
+C:\Users\kermt\Documents\Projetos\Aula27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.csprojAssemblyReference.cache
+C:\Users\kermt\Documents\Projetos\Aula27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.csproj.CoreCompileInputs.cache
+C:\Users\kermt\Documents\Projetos\Aula27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.AssemblyInfoInputs.cache
+C:\Users\kermt\Documents\Projetos\Aula27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.AssemblyInfo.cs
+C:\Users\kermt\Documents\Projetos\Aula27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.dll
+C:\Users\kermt\Documents\Projetos\Aula27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.pdb
+C:\Users\kermt\Documents\Projetos\Aula27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.genruntimeconfig.cache
+C:\Users\admin\Desktop\Aula27_28_29_30-master\bin\Debug\netcoreapp3.1\Aula27_28_29_30.exe
+C:\Users\admin\Desktop\Aula27_28_29_30-master\bin\Debug\netcoreapp3.1\Aula27_28_29_30.deps.json
+C:\Users\admin\Desktop\Aula27_28_29_30-master\bin\Debug\netcoreapp3.1\Aula27_28_29_30.runtimeconfig.json
+C:\Users\admin\Desktop\Aula27_28_29_30-master\bin\Debug\netcoreapp3.1\Aula27_28_29_30.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Aula27_28_29_30-master\bin\Debug\netcoreapp3.1\Aula27_28_29_30.dll
+C:\Users\admin\Desktop\Aula27_28_29_30-master\bin\Debug\netcoreapp3.1\Aula27_28_29_30.pdb
+C:\Users\admin\Desktop\Aula27_28_29_30-master\obj\Debug\netcoreapp3.1\Aula27_28_29_30.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Aula27_28_29_30-master\obj\Debug\netcoreapp3.1\Aula27_28_29_30.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Aula27_28_29_30-master\obj\Debug\netcoreapp3.1\Aula27_28_29_30.AssemblyInfo.cs
+C:\Users\admin\Desktop\Aula27_28_29_30-master\obj\Debug\netcoreapp3.1\Aula27_28_29_30.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Aula27_28_29_30-master\obj\Debug\netcoreapp3.1\Aula27_28_29_30.dll
+C:\Users\admin\Desktop\Aula27_28_29_30-master\obj\Debug\netcoreapp3.1\Aula27_28_29_30.pdb
+C:\Users\admin\Desktop\Aula27_28_29_30-master\obj\Debug\netcoreapp3.1\Aula27_28_29_30.genruntimeconfig.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula_27_28_29_30\bin\Debug\netcoreapp3.1\Aula27_28_29_30.exe
+C:\Users\admin\Desktop\Senai - Atividades\Aula_27_28_29_30\bin\Debug\netcoreapp3.1\Aula27_28_29_30.deps.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula_27_28_29_30\bin\Debug\netcoreapp3.1\Aula27_28_29_30.runtimeconfig.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula_27_28_29_30\bin\Debug\netcoreapp3.1\Aula27_28_29_30.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula_27_28_29_30\bin\Debug\netcoreapp3.1\Aula27_28_29_30.dll
+C:\Users\admin\Desktop\Senai - Atividades\Aula_27_28_29_30\bin\Debug\netcoreapp3.1\Aula27_28_29_30.pdb
+C:\Users\admin\Desktop\Senai - Atividades\Aula_27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula_27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula_27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.AssemblyInfo.cs
+C:\Users\admin\Desktop\Senai - Atividades\Aula_27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula_27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.dll
+C:\Users\admin\Desktop\Senai - Atividades\Aula_27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.pdb
+C:\Users\admin\Desktop\Senai - Atividades\Aula_27_28_29_30\obj\Debug\netcoreapp3.1\Aula27_28_29_30.genruntimeconfig.cache
